@@ -1,0 +1,8 @@
+"ThrowException message","ThrowException メッセージ"
+"Exception message","Exception メッセージ"
+"Extended exception","拡張例外"
+"Available processors","利用可能なプロセッサー"
+"Web - url/method and remote IP of the current web request","ウェブ - URLまたはメソッドと現在のページヘのリクエストに使用されたリモートIP"
+"Memory peak usage","ピークメモリ使用量"
+"Memory usage","メモリ使用量"
+"Extra data - arbitrary extra data like app mode and global variables ($_POST, $_GET, $_SESSION, $_COOKIE)","追加データ - 任意の追加データやグローバル変数 ($_POST, $_GET, $_SESSION, $_COOKIE)"
